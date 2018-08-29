@@ -6,7 +6,5 @@ public class TestHouse {
         h1.sizeBedroom=10;
         System.out.println(h1.sizeBedroom);
     }
-
-
-    }
+    }// TestHouse update
 
